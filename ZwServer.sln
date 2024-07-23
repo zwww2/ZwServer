@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZwServer", "ZwServer.vcxproj", "{5B78AF7E-7206-4976-B4CD-E341963B3111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B78AF7E-7206-4976-B4CD-E341963B3111}.Debug|x64.ActiveCfg = Debug|x64
+		{5B78AF7E-7206-4976-B4CD-E341963B3111}.Debug|x64.Build.0 = Debug|x64
+		{5B78AF7E-7206-4976-B4CD-E341963B3111}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B78AF7E-7206-4976-B4CD-E341963B3111}.Debug|x86.Build.0 = Debug|Win32
+		{5B78AF7E-7206-4976-B4CD-E341963B3111}.Release|x64.ActiveCfg = Release|x64
+		{5B78AF7E-7206-4976-B4CD-E341963B3111}.Release|x64.Build.0 = Release|x64
+		{5B78AF7E-7206-4976-B4CD-E341963B3111}.Release|x86.ActiveCfg = Release|Win32
+		{5B78AF7E-7206-4976-B4CD-E341963B3111}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60820D0C-4895-432B-ABF0-C71C0E0469FF}
+	EndGlobalSection
+EndGlobal
